@@ -101,7 +101,7 @@ const DiscordColoredTextGenerator = () => {
             ANSI color codes available on the latest Discord desktop versions.
             <br />
             <Anchor 
-              href="https://github.com/" 
+              href="https://github.com/Abhik004/videodubber_task" 
               target="_blank" 
               c="blue.4" 
               style={{ display: 'block', marginTop: '8px' }}

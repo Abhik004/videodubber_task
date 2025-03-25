@@ -1,6 +1,6 @@
 import React from 'react';
 import { MantineProvider } from '@mantine/core';
-import '@mantine/core/styles.css'; // Import Mantine core styles
+import '@mantine/core/styles.css'; 
 import DiscordColoredTextGenerator from './components/DiscordColouredTextGenerator';
 
 function App() {
